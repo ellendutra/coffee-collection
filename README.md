@@ -19,6 +19,8 @@ This is my solution to the [Simple Coffee Listing](https://devchallenges.io/chal
 - JavaScript
 - [Tailwind](https://tailwindcss.com/) - For styles
 - Mobile-first workflow
+- ESLint - For code linting
+- Prettier - For code formatting
 
 ## Links
 
