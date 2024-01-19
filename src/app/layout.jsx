@@ -8,7 +8,7 @@ const dm_sans = DM_Sans({
   display: 'swap',
 });
 
-const openGraphImage = { images: [""] };
+const openGraphImage = { images: ["https://github.com/ellendutra/coffee-collection/assets/36541266/8ce77cdb-3fcf-47bc-a4ba-426beab1aadc"] };
 
 export const metadata = {
   title: 'Coffee Collection',
@@ -18,7 +18,7 @@ export const metadata = {
     ...openGraphImage,
     title: 'Coffee Collection',
     description:'Introducing our Coffee Collection, a selection of unique coffees from different roast types and origins, expertly roasted in small batches and shipped fresh weekly.',
-    url: "",
+    url: "https://coffee-collection.vercel.app/",
     type: "website",
   },
 };
